@@ -1,1 +1,2 @@
-https://skozan.wordpress.com/ posts code examples and exceprts
+Supplementary files and software for posts to my blog:
+https://skozan.wordpress.com/
